@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View cart</name>
+   <tag></tag>
+   <elementGuidId>d2e2f15b-d3be-47ba-9252-f9c889e3bea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noo-site']/div[2]/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.wc-forward.wp-element-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ccd2bbe3-4ddd-4056-bedc-e339319e29c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/cart/</value>
+      <webElementGuid>faf04e3f-9846-499a-b6a2-8ff29cea2c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6b113cd0-fa8b-46a3-b5b4-713c0a6c55e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button wc-forward wp-element-button</value>
+      <webElementGuid>3872950d-df2b-42af-9683-3849aebb461a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View cart</value>
+      <webElementGuid>97295266-f1c6-4628-96ae-a12084082169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;noo-container-shop noo-shop-wrap noo-shop-single-fullwidth&quot;]/div[@class=&quot;noo-row&quot;]/div[@class=&quot;noo-main noo-md-12&quot;]/div[@class=&quot;woocommerce-notices-wrapper&quot;]/div[@class=&quot;woocommerce-message&quot;]/a[@class=&quot;button wc-forward wp-element-button&quot;]</value>
+      <webElementGuid>3c9b528f-8f37-4eac-a6f4-93c002162f9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noo-site']/div[2]/div/div/div/div/a</value>
+      <webElementGuid>594991e8-de96-4fdf-90e2-5777ad0cd28e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View cart')]</value>
+      <webElementGuid>e75e298f-c98b-4fd4-9926-ef3088be34cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='black lux graphic t-shirt'])[3]/following::a[1]</value>
+      <webElementGuid>42f7ffa6-fb91-4755-9b75-f8a92e093f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='black lux graphic t-shirt'])[4]/preceding::a[5]</value>
+      <webElementGuid>14462343-e0cc-44f7-b793-7b11b43dfba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[4]/preceding::a[5]</value>
+      <webElementGuid>1be152d4-119a-4ab9-9252-4f21f07f948d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View cart']/parent::*</value>
+      <webElementGuid>60911f7a-02fb-46e0-8b22-958556e24b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://shop.demoqa.com/cart/')])[4]</value>
+      <webElementGuid>14aaefa5-acba-440f-8870-2e327f904f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a</value>
+      <webElementGuid>a9547d0e-9992-4c11-bf5b-6ff1ead29aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/cart/' and (text() = 'View cart' or . = 'View cart')]</value>
+      <webElementGuid>6fa24b5f-972d-4ebf-a63b-61eca778c2b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
